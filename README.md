@@ -5,3 +5,5 @@ With all of the tweets circulating every second it is hard to tell whether the s
 Help build your skills in this important area with this broad dataset of tweets. Work on your technique to grab a top spot in this competition. What words in tweets support a positive, negative, or neutral sentiment? How can you help make that determination using machine learning tools?
 
 "My ridiculous dog is amazing." [sentiment: positive]
+
+https://www.kaggle.com/c/tweet-sentiment-extraction
